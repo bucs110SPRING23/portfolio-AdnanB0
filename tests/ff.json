@@ -1,0 +1,199 @@
+{
+    "ch00": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "local_repository": {
+                "type": "DIR",
+                "main.py": {
+                    "type": "FILE",
+                    "due": "2023-09-14T13:59:23.618614"
+                }
+            }
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618640"
+            }
+        }
+    },
+    "ch01": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "data.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618671"
+            },
+            "rectangle.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618675"
+            },
+            "colors.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618678"
+            },
+            "currency.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618680"
+            }
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618688"
+            }
+        }
+    },
+    "ch02": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "drawing.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618705"
+            },
+            "shapes.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618708"
+            }
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618715"
+            }
+        }
+    },
+    "ch03": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "guess.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618727"
+            }
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618735"
+            }
+        }
+    },
+    "ch04": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "guessagain.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618762"
+            },
+            "coinflip.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618767"
+            }
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618777"
+            }
+        }
+    },
+    "ch05": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "patterns.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618789"
+            },
+            "scope.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618791"
+            }
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618798"
+            }
+        }
+    },
+    "ch06": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "substitutions.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618811"
+            },
+            "cipher.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618814"
+            }
+        },
+        "midterm": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618826"
+            }
+        }
+    },
+    "ch07": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR"
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618847"
+            }
+        }
+    },
+    "ch08": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "gui.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618866"
+            }
+        },
+        "lab": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618874"
+            }
+        }
+    },
+    "ch09": {
+        "type": "DIR",
+        "exercises": {
+            "type": "DIR",
+            "apis.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618885"
+            }
+        },
+        "final": {
+            "type": "DIR",
+            "main.py": {
+                "type": "FILE",
+                "due": "2023-09-14T13:59:23.618907"
+            }
+        }
+    }
+}
