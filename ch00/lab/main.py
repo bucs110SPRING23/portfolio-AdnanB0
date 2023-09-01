@@ -21,7 +21,7 @@ pygame.time.wait(500)
 screen.fill([0, 0, 255])
 
 font = pygame.font.SysFont(None, 72)
-text = font.render("Hello Adnan", True, "pink")
+text = font.render("Hello Adnan", True, "green")
 
 screen.blit(text, screen.get_rect().center)
 
