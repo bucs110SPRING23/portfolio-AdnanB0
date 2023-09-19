@@ -1,7 +1,0 @@
-## print(list(range(11))) # [0...10]
-
-for _ in range(10):
-    print(_)
-
-
-
