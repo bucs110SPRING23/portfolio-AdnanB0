@@ -34,3 +34,16 @@ mystr = list(mystr)
 print("o T" in mystr) # True
 mystr2 = mystr[:]
 print(mystr is mystr2) # True
+
+###################################
+
+money = int(input("Please enter money:"))
+cost = 2.15
+if money >= cost:
+    print("Here's change")
+
+
+    ## Structure of "If Statment"
+    if <boolean expression>:
+        <conditional code>
+else: #no condition
