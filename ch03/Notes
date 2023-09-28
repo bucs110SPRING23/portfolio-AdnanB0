@@ -1,0 +1,49 @@
+x = 5 #assignment operator
+y = 6 
+
+print(x == y) # == equailty
+print(x == y) # != bang
+print(x == y) 
+print(x == y) 
+print(x == y) 
+print(x == y) 
+print(x == y) 
+# print (x ==> y) ERROR
+
+print(x and y)
+print(x or y)
+print(not y)
+
+# Tue and True = True,
+# False and True = True 
+# False ot False = False 
+
+print(x is x) ## exact same memory location
+x = "He"
+y = "Hello"
+print(x in y)
+
+###################################
+x = 4
+print(x < 6 and x > 2) # True
+print(x > 10 or x % 2 == 0) # True
+print(not (x< 6)) # False 
+
+mystr = "Hello There"
+mystr = list(mystr)
+print("o T" in mystr) # True
+mystr2 = mystr[:]
+print(mystr is mystr2) # True
+
+###################################
+
+money = int(input("Please enter money:"))
+cost = 2.15
+if money >= cost:
+    print("Here's change")
+
+
+    ## Structure of "If Statment"
+    if <boolean expression>:
+        <conditional code>
+else: #no condition
